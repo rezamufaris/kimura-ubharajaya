@@ -4,11 +4,15 @@
   font-family: "Poppins", sans-serif;
 }
 
-.btn-submit:hover {
-  background-color: #8cbba9;
-  color: #08281c;
+.btn:hover {
+  background-color: #fdd132;
+  color: #121212;
 }
 
 .p .text-links:hover {
   color: #ffffff;
+}
+
+.dropdown-menu {
+  text-align: right;
 }
